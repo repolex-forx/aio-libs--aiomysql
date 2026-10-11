@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiomysql",
+  "versions": [
+    {
+      "commit": "1aa9cfcbad60f14f5a8bdccaa660f10f69123015",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:12:50.357749+00:00"
+    }
+  ]
+}
